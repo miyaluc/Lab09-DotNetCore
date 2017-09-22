@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\bin\Debug\netcoreapp2.0\IntroToASPDotNetCore.deps.json
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\bin\Debug\netcoreapp2.0\IntroToASPDotNetCore.runtimeconfig.json
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\bin\Debug\netcoreapp2.0\IntroToASPDotNetCore.runtimeconfig.dev.json
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\bin\Debug\netcoreapp2.0\IntroToASPDotNetCore.dll
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\obj\Debug\netcoreapp2.0\IntroToASPDotNetCore.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\obj\Debug\netcoreapp2.0\IntroToASPDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\obj\Debug\netcoreapp2.0\IntroToASPDotNetCore.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\obj\Debug\netcoreapp2.0\IntroToASPDotNetCore.AssemblyInfo.cs
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\bin\Debug\netcoreapp2.0\IntroToASPDotNetCore.pdb
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\obj\Debug\netcoreapp2.0\IntroToASPDotNetCore.dll
+C:\Users\shami\source\repos\IntroToASPDotNetCore\IntroToASPDotNetCore\obj\Debug\netcoreapp2.0\IntroToASPDotNetCore.pdb
